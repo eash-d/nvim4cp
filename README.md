@@ -1,5 +1,8 @@
 This is a **SUPER SIMPLE** nvim environment for competitive programming.
 
+#### ScreenShot
+![image](https://github.com/eash-d/nvim4cp/blob/main/screenshot.png)  
+
 #### Quick Start
 **move .config/ into ~(the home dir)**  
 vim ~/.config/nvim/lua/plugins/plugins-setup.lua  
